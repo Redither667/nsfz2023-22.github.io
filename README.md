@@ -1,1 +1,1 @@
-This is my personal main page.
+This is my homepage.
